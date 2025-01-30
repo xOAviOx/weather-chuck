@@ -10,5 +10,8 @@
   "description": "A CLI based weather app",
   "bin": {
     "chuck": "bin/chuck"
+  },
+  "dependencies": {
+    "minimist": "^1.2.8"
   }
 }
