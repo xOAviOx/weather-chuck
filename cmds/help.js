@@ -1,3 +1,4 @@
+//menus
 const menus = {
   main: `
   chuck [command] <options>
